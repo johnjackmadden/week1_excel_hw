@@ -19,13 +19,17 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
     The conclusion that I can draw about the outcome of campaigns based on launch date is it seems that late spring going throughout summer is the best time for campaigns, since the total number of succesful campaigns peaked in may and declined steadilt until september. 
 
 - What can you conclude about the Outcomes based on Goals?
+
     Based on my analysis of the outcomes based on goals, having a smaller amount under 10k dollars seems to have the best chance of getting funded, with the peak goal amount in the 1-5k dollar range at around 65%. Concersely, asking for more than 50k dollars as a goal will skyrocket the chance of failure based on the data set we analyized.
 
 - What are some limitations of this dataset?
+
     Some potiental limitations of our dataset could be the data we are drawing information from is incomplete. There are many different websites for crowdfunding campaigns, including kickstater, Indiegogo, Patreon, GofundMe, etc. . Another limitation comes from the type of donations that are being recieved, since some sites like patreon offer monthly subscription type services that provide content creators an avenue to earn revenue every month by offering donators additional content or benefits, such as early access or premium content
     
 - What are some other possible tables and/or graphs that we could create?
+
     If we can accumulate more data I would be curious to see how other donation platforms compare if this data set is indeed from only one site. Along with the location of a play, to compare rural/urban/suburban areas for where the plays are hosted, since population density might play a role in the success of campaigns for plays for people to see
