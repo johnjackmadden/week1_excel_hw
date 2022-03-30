@@ -6,12 +6,13 @@
 ### Purpose
     The main purpose of this exercise is twofold: First, to expand and refine our skill with excel using formulas and other technical skills. Secondly, to gain a broader overview of understanding of the nature and theory behind statistics in the context of analyzing a broad spectrum of numbers in different contexts.
 ## Analysis and Challenges
-
+![Theatre_Outcomes_vs_launch.png](/Resources/Theatre_Outcomes_vs_launch.png)
 ### Analysis of Outcomes Based on Launch Date
-    ![Theatre_Outcomes_vs_launch.png](/Resources/Theatre_Outcomes_vs_launch.png)
+  
     The graph shown displays the outcomes of various campaigns based on the month that they started. There was an increase in successful campaigns starting in April that peaked in May at over 100 successful campaigns, that steadily declined until September and then progressed down more until the end of the year in december. Failed campaigns and Canceled campaigns seemed to be unaffected in a significant way based on the time of year.
+    
 ### Analysis of Outcomes Based on Goals
-    ![Outcomes _vs_Goals.png](/Resources/Outcomes _vs_Goals.png)
+![Outcomes _vs_Goals.png](/Resources/Outcomes _vs_Goals.png)
     The graph shown displays the percent of succesful projects based on the goal amount set by the creator of the campaign. Based on our data sheet, the general trend shows that successful campaigns are the most likely to succede around the 1-5k dollar range, while until the 45k dollar bracket will remain around 50% to get funded. Anything more than this amount will drastically increase the chance that the campaign fails to get funded. The trend for the percentage of canceled projects seems to have a positve corelation to cancelation based on the amount of money set as a goal, with around 30 percent of the projects that get canceled with more than a 50k dollar goal
 ### Challenges and Difficulties Encountered
     The main challenges that I encounter was making sure my data set was staying consistant throughout spreadsheets, and to make sure my formulas were correct in order to maintain my data set to be as accurate as possible for analysis. I believe my outcomes based on goals graph looks slightly different from the one posted for the assignment, so i would be curious to see what I did that was different than the "correct" route if this is indeed true. Also getting my png graphs to show up in the readme, since its my first time doing something like this I am hoping the way I did it was workable.
