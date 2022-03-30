@@ -8,7 +8,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-    ![Theatre_Outcomes_vs_launch](/Resources/Theatre_Outcomes_vs_launch.png)
+    ![Theatre_Outcomes_vs_launch.png](/Resources/Theatre_Outcomes_vs_launch.png)
     The graph shown displays the outcomes of various campaigns based on the month that they started. There was an increase in successful campaigns starting in April that peaked in May at over 100 successful campaigns, that steadily declined until September and then progressed down more until the end of the year in december. Failed campaigns and Canceled campaigns seemed to be unaffected in a significant way based on the time of year.
 ### Analysis of Outcomes Based on Goals
     ![Outcomes _vs_Goals.png](/Resources/Outcomes _vs_Goals.png)
